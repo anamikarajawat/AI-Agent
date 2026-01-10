@@ -1,0 +1,4 @@
+google-adk
+python-dotenv
+google-generativeai
+# Python 3.12.x (required)
